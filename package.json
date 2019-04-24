@@ -1,0 +1,15 @@
+{
+  "name": "simple-esm-usage",
+  "version": "1.0.0",
+  "description": "A simple example of using an ESM module with Node.js from npm",
+  "main": "app.js",
+  "dependencies": {
+    "simple-esm": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tierney Cyren <hello@bnb.im> (https://bnb.im)",
+  "license": "MIT",
+  "type": "module"
+}
