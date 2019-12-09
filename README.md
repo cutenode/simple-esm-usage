@@ -1,5 +1,7 @@
 # simple-esm-usage
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cutenode/simple-esm-usage.svg)](https://greenkeeper.io/)
+
 This repo is an example of how to use [simple-esm](https://github.com/bnb/simple-esm), a full-ES module published to npm, with Node.js without transpilation. 
 
 ## How
